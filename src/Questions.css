@@ -1,0 +1,19 @@
+.question img{
+	width: 50%;
+	max-height: 200px;
+	max-width: 200px;
+}
+.question {
+	max-width: 400px;
+	margin: 0 auto;
+	padding: 10px;
+}
+.question.done a{
+	cursor: pointer;
+}
+.correct{
+	background: red;
+}
+.wrong{
+	background: green;
+}

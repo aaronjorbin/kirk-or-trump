@@ -1,0 +1,27 @@
+.App {
+	text-align: center;
+}
+
+.App-header {
+	background-color: #222;
+	padding:  2vh 4vw;
+	color: white;
+}
+
+.App-intro {
+	font-size: large;
+}
+
+.App-header a{
+	font-weight: bold;
+	color: #9ad;
+}
+.App-header a:hover {
+	font-weight: bold;
+	color: #da9;
+}
+
+@keyframes App-logo-spin {
+	from { transform: rotate(0deg); }
+	to { transform: rotate(360deg); }
+}
