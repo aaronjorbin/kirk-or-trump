@@ -37,7 +37,7 @@ class Result extends Component {
 render() {
 	let percent = this.calculatePercent();
 	let person = this.calculatePerson( percent );
-	let titleString = 'I got ' + percent + '% correct on Trump Vs. Kirk.';
+	let titleString = 'I scored ' + percent + '% on Kirk or Trump.';
 	let tweetUrl = 'https://twitter.com/share?text=' + encodeURIComponent( titleString );
 	ReactGA.event({
 		category: 'complete',
