@@ -8,12 +8,13 @@
 	margin: 0 auto;
 	padding: 10px;
 }
-.question.done a{
-	cursor: pointer;
+.question.done a,
+.question.done a:hover{
+	cursor: default;
 }
 .correct{
-	background: red;
+	background: green;
 }
 .wrong{
-	background: green;
+	background: red;
 }

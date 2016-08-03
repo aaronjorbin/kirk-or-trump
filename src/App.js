@@ -17,37 +17,37 @@ function shuffleArray(array) {
 
 var questions = shuffleArray( [
 		{
-		'q': 'Worlds may change, galaxies disintegrate, but a woman... always remains a woman.',
-		'who': 'kirk'
+			'q': 'Worlds may change, galaxies disintegrate, but a woman... always remains a woman.',
+			'who': 'kirk'
 		},
 		{
-		'q': "Stay out of this. We're fighting over a woman.",
-		'who': 'kirk'
+			'q': "Stay out of this. We're fighting over a woman.",
+			'who': 'kirk'
 		},
 		{
-		'q': "If only she could have accepted her limitations as a woman.",
-		'who': 'kirk'
+			'q': "If only she could have accepted her limitations as a woman.",
+			'who': 'kirk'
 		},
 		{
-		'q': "It doesn't really matter what they write as long as you've got a young and beautiful piece of ass.",
-		'who': 'trump'
+			'q': "It doesn't really matter what they write as long as you've got a young and beautiful piece of ass.",
+			'who': 'trump'
 		},
 		{
-		'q': "Beauty and elegance, whether in a woman, a building, or a work of art, is not just superficial or something pretty to see.",
-		'who': 'trump'
+			'q': "Beauty and elegance, whether in a woman, a building, or a work of art, is not just superficial or something pretty to see.",
+			'who': 'trump'
 		},
-{
-	'q': "A little suffering is good for the soul.",
-	'who': 'kirk'
-},
-{
-	'q': "Beauty\u2026survives.",
-	'who': 'kirk'
-},
-{
-	'q': "When I think I’m right, nothing bothers me.",
-	'who': 'trump'
-}
+		{
+			'q': "A little suffering is good for the soul.",
+			'who': 'kirk'
+		},
+		{
+			'q': "Beauty\u2026survives.",
+			'who': 'kirk'
+		},
+		{
+			'q': "When I think I’m right, nothing bothers me.",
+			'who': 'trump'
+		}
 ] );
 
 
